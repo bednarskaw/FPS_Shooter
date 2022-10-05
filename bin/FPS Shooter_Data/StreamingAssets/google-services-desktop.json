@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "565332583779",
+    "firebase_url": "https://creaturefps-90666-default-rtdb.firebaseio.com",
+    "project_id": "creaturefps-90666",
+    "storage_bucket": "creaturefps-90666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565332583779:android:b3ab68560d02a800325f56",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FPSShooter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565332583779-nbemfolhc4m0rvo6b55khdhjv9c8r0gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsN1NRSK-3CRfX3HkrRrJzun5koZ5DvNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565332583779-nbemfolhc4m0rvo6b55khdhjv9c8r0gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
